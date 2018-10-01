@@ -14,6 +14,7 @@ public class ZooProgram
          Human bill = new Human(34, "Bill");
          NestingDoll jeff =new NestingDoll("edward", 47);
          Dragon andy = new Dragon(823, "Andy");
+         Fox ylvis = new Fox(69, "Ylvis");
          
          
          //Speech Patterns
@@ -22,6 +23,7 @@ public class ZooProgram
          bill.talk();
          jeff.clop();
          andy.attack();
+         ylvis.howl();
          
          //Setting values for default object Leo
          leo.setAge(3);
@@ -33,5 +35,6 @@ public class ZooProgram
          System.out.println(bill);
          System.out.println(jeff);
          System.out.println(andy);
+         System.out.println(ylvis);
     }//main() end
 }//ZooProgram end
