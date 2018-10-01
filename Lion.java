@@ -35,11 +35,11 @@ public class Lion
     // Setter Methods
     public void setAge(int a){
         age = a;
-    }
+    }//setAge(int a) end
     
     public void setName(String n){
         name = n;
-    }
+    }//setName(String n) end
     
     // Other Methods
     public void roar(){

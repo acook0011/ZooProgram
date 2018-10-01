@@ -18,7 +18,7 @@ public class ZooProgram
          rory.roar();
          bill.talk();
          
-         //Setting values for default object
+         //Setting values for default object Leo
          leo.setAge(3);
          leo.setName("Leo");
          
