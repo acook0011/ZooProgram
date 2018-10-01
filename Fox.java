@@ -43,7 +43,7 @@ public class Fox
     
     public String toString(){
         String str;
-        str = name + " is " + age + " years old." + "\n";
+        str = name + " is a fox that is " + age + " years old." + "\n";
         return str;
     }
 }
