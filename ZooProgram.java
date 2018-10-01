@@ -39,5 +39,14 @@ public class ZooProgram
          System.out.println(andy);
          System.out.println(ylvis);
          System.out.println(avery);
+         
+         Owl hooter = new Owl();            //Age is 0 and name is ""
+         Owl nightEyes = new Owl(3, "Hooty");
+         hooter.setAge(5);
+         hooter.setName("NightHawk");
+         hooter.hoot();
+         nightEyes.hoot();
+         System.out.println(hooter);
+         System.out.println(nightEyes);
     }//main() end
 }//ZooProgram end
