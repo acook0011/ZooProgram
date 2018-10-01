@@ -45,6 +45,6 @@ public class Dragon
     
     //toString method
     public String toString(){
-        return name + " the Dragon is " + age + " years old.";
+        return name + " the dragon is " + age + " years old.";
     } //toString() end
 } //Lion end
