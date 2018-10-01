@@ -4,9 +4,8 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE: Zoo Program
+PURPOSE OF PROJECT: To create a zoo filled with a wide variety of animals!
+VERSION or DATE: 10/1/2018
+AUTHORS: AP Computer Science Block 3
+USER INSTRUCTIONS: Do it yourself :)
