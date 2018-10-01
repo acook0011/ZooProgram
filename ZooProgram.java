@@ -11,10 +11,12 @@ public class ZooProgram
          //Declaring objects
          Lion leo = new Lion();            //Age is 0 and name is ""
          Lion rory = new Lion(12, "Rory");
+         Human bill = new Human(34, "Bill");
          
-         //Performing methods
+         //Speech Patterns
          leo.roar();
          rory.roar();
+         bill.talk();
          
          //Setting values for default object
          leo.setAge(3);
@@ -23,6 +25,7 @@ public class ZooProgram
          //Calling toString
          System.out.println(leo);
          System.out.println(rory);
+         System.out.println(bill);
          
     }//main() end
 }//ZooProgram end
