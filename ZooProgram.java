@@ -12,7 +12,7 @@ public class ZooProgram
          Lion leo = new Lion();            //Age is 0 and name is ""
          Lion rory = new Lion(12, "Rory");
          Human bill = new Human(34, "Bill");
-         nestingdoll jeff=new nestingdoll("edward", 47);
+         NestingDoll jeff =new NestingDoll("edward", 47);
          Dragon andy = new Dragon(823, "Andy");
          
          
