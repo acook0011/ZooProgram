@@ -41,7 +41,7 @@ public class Snake
     
     public String toString(){
         String str;
-        str = (name + " the lion is " + age + " years old.");
+        str = (name + " the snake is " + age + " years old.");
         return str;
     }
     
