@@ -26,7 +26,7 @@ public class ZooProgram
          bill.talk();
          jeff.clop();
          andy.attack();
-         ylvis.howl();
+         ylvis.howl(); //What does the fox say?
          avery.scream();
          jay.speed();
          yahhhh.talk();
