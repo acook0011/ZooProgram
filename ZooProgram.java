@@ -17,6 +17,7 @@ public class ZooProgram
          Fox ylvis = new Fox(69, "Ylvis");
          Rat avery = new Rat("Avery",56,90,2);
          Falcon jay= new Falcon(56, "Jay");
+         Snake susy = new Snake(7 , "Susy");
          
          //Speech Patterns
          leo.roar();
@@ -27,7 +28,7 @@ public class ZooProgram
          ylvis.howl();
          avery.scream();
          jay.speed();
-         
+         susy.hisss();
          //Setting values for default object Leo
          leo.setAge(3);
          leo.setName("Leo");
@@ -41,6 +42,7 @@ public class ZooProgram
          System.out.println(ylvis);
          System.out.println(avery);
          System.out.println(jay);
+         System.out.println(susy);
          
          Owl hooter = new Owl();            //Age is 0 and name is ""
          Owl nightEyes = new Owl(3, "Hooty");
