@@ -2,7 +2,7 @@
 /**
  * Write a description of class NestingDoll here.
  *
- * @author (your name)
+ * @Aidan Li
  * @version (a version number or a date)
  */
 public class NestingDoll
