@@ -2,7 +2,7 @@
 /**
  * Write a description of class Falcon here.
  *
- * @author (your name)
+ * @Evan Ekblaw
  * @version (a version number or a date)
  */
 public class Falcon
